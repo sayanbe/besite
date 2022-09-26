@@ -1,6 +1,6 @@
-baseURL: "https://hugo-profile.netlify.app"
+baseURL: "https://sayanbe.netlify.app"
 languageCode: "en-us"
-title: "Hugo Profile"
+title: "Sayan Be's Website"
 theme: "hugo-profile"
 
 Paginate: 3
@@ -19,9 +19,9 @@ Menus:
   #  title: Blog posts
   #    url: /blogs
    #   weight: 1
-    - identifier: cv
-      name: cv
-      title: cv
+    - identifier: CV
+      name: CV
+      title: CV
       url: /cv
       weight: 1  
     
@@ -109,9 +109,9 @@ params:
     enable: true
     intro: "Hi, my name is"
     title: "Sayan."
-    subtitle: "I am a student+researcher+teachingassistant"
-    content: "I am a graduate student at the department of Human Centered Design and Engineering at the University of Washington, Seattle."
-    image: /images/hero.svg
+    subtitle: "I am a student+researcher+TA"
+    content: "currently at the department of Human Centered Design and Engineering at the University of Washington, Seattle."
+    image: /images/profile1.jpg
     button:
       enable: true
       name: "Resume"
